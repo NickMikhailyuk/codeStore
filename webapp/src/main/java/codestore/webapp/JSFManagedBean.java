@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
  *
  * @author Captain Sevastopol
  */
-@ManagedBean(name = "JSFNumberBean")
+@ManagedBean(name = "JSFManagedBean")
 @SessionScoped
 public class JSFManagedBean implements Serializable {
 
